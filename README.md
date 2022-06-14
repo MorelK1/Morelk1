@@ -3,8 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Morel Kouhossounon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Morel Kouhossounon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Morel Kouhossounon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morel kouhossounon" height="30" width="40" /></a>
+<a href="https://fb.com/Morel Kouhossounon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morel kouhossounon" height="30" width="40" /></a>
 <a href="https://instagram.com/__kdvm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kdvm__" height="30" width="40" /></a>
+<a href="https://github.com/MorelK1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="morelK1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
