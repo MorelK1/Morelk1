@@ -34,7 +34,7 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-%23F14C4D.svg?&style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
