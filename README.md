@@ -1,5 +1,6 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello+world+!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Morel+KOUHOSSOUNON."></a>  
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+there+!+%F0%9F%91%8B%F0%9F%8F%BD"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=I'm+Morel+KOUHOSSOUNON."></a>  
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=+Data+Engeneering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Beninese%2C+Actually+in+Morroco+%E2%9D%A4" alt="Typing SVG" /></a>
 </p>
 
